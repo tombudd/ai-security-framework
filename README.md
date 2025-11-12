@@ -31,3 +31,24 @@ Python 3.11+ | Cryptography | FastAPI | PostgreSQL | Redis
 **LinkedIn**: [linkedin.com/in/tombudd](https://linkedin.com/in/tombudd)
 
 MIT License | 🔒 Enterprise Secure
+
+---
+
+## 📝 Important Note
+
+This repository contains **demonstration code** for portfolio purposes. It showcases:
+- ✅ Architectural design capabilities
+- ✅ Clean code practices
+- ✅ System design thinking
+- ✅ Technical knowledge
+
+**What this is NOT:**
+- ❌ Production-ready implementation
+- ❌ Complete algorithm implementations
+- ❌ Proprietary business logic
+- ❌ Real training data or models
+
+Production systems use proprietary algorithms, optimizations, and data that are not disclosed here.
+
+**Copyright © 2025 Tom Budd. All rights reserved.**
+
